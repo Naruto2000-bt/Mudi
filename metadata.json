@@ -1,0 +1,6 @@
+{
+  "name": "Canales Costa Rica",
+  "description": "Canales de televisión en vivo de Costa Rica, guía de programación intuitiva, sección de contenidos locales bajo demanda y transmisión especial de partidos del mundial con horarios de Costa Rica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
